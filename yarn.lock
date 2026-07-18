@@ -8947,10 +8947,8 @@ timers-browserify@^2.0.4:
     setimmediate "^1.0.4"
 
 tmp@~0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/tmp/-/tmp-0.2.1.tgz#8457fc3037dcf4719c251367a1af6500ee1ccf14"
-  dependencies:
-    rimraf "^3.0.0"
+  version "0.2.7"
+  resolved "https://registry.yarnpkg.com/tmp/-/tmp-0.2.7.tgz#26f4db11d1601ce8012dcb8a798ece1c06a99059"
 
 tmpl@1.0.5:
   version "1.0.5"
